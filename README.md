@@ -2,4 +2,4 @@
 GitHub Tutorial
 Edited the file with some additionnal code..
 
-Another edit
+Another edit this time with a comment
